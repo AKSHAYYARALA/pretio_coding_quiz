@@ -1,35 +1,37 @@
 import requests
 import time
 import sys
-import json 
-import csv 
+import json
+import csv
+
 
 class CodingQuiz:
 
     def __init__(self, auth_token):
         self.headrs = {'Authorization': 'Bearer ' + auth_token}
-    
 
     def make_call(self, endpoint):
 
         try:
             response = requests.get(endpoint, headers=self.headrs)
 
-            if response.status_code == 200:                
+            if response.status_code == 200:
                 json_response = response.json()
+                rows = json_response['rows']
+                rows = sorted(rows, key = lambda i: float(i['payout']))
 
-                fp = open('offers.csv', 'w')
-                csv_writer = csv.writer(fp) 
-                
-                count = 0                
-                for row in json_response['rows']: 
+                fp = open('offers.csv', 'w', encoding='utf-8', errors='ignore')
+                csv_writer = csv.writer(fp)
+
+                count = 0
+                for row in rows:
                     if count == 0:
-                        header = row.keys() 
-                        csv_writer.writerow(header) 
+                        header = row.keys()
+                        csv_writer.writerow(header)
                         count += 1
-                     
-                    csv_writer.writerow(row.values()) 
-                
+
+                    csv_writer.writerow(row.values())
+
                 fp.close()
                 return response.status_code
             elif response.status_code == 429:
@@ -43,7 +45,7 @@ class CodingQuiz:
 
 
 if __name__ == '__main__':
-    auth_token='LpNe5bB4CZnvkWaTV9Hv7Cd37JqpcMNF'
+    auth_token = 'LpNe5bB4CZnvkWaTV9Hv7Cd37JqpcMNF'
     cq_obj = CodingQuiz(auth_token)
 
     endpoint = 'https://atlas.pretio.in/atlas/coding_quiz'

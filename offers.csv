@@ -1,165 +1,501 @@
 active,cap,name,payout,platform
-True,,CarInsurance.net - Native | Mon - Fri Only!,6.00,HasOffers
-True,,Pentagon Fitness Tracker,13.00,HasOffers
-True,,Fresh Tax Support | Mon - Fri Only!,33.00,HasOffers
-True,,Get Keranique - Display/Native,67.00,HasOffers
-True,,The Unemployment Benefits Guide,1.80,HasOffers
-True,,Found Money Guide,1.80,HasOffers
-True,,Top Credit Card Finder,1.80,HasOffers
-True,,Tax Group Center,30.00,HasOffers
 True,,Silver Singles CAP REDIRECT DO NOT USE,0.00,HasOffers
 True,,US Concealed Online - CAP REDIRECT DO NOT USE,0.00,HasOffers
-True,0,SugarBeats iPhone 11 Pro (Sweepstake) (CC Trial) - Netherlands,24.00,Everflow-affiliate
-True,0,SugarBeats iPhone 11 Pro (Sweepstake) (CC Trial) - New Zealand,19.13,Everflow-affiliate
-True,0,SugarBeats iPhone 11 Pro (Sweepstake) (CC Trial) - SE FI NO DK CH BE,24.00,Everflow-affiliate
-True,,US - Test & Keep PlayStation5,2.20,HasOffers
-True,,US - Test & Keep Xbox X,2.20,HasOffers
-True,,Learning Ferret,9.00,HasOffers
-True,,Secure Speedy,48.00,HasOffers
-True,,American Home Shield - Display/Social,19.00,HasOffers
-True,,ADT - Pets | Mon - Fri Drops Only!,45.00,HasOffers
-True,,Rest Safe Home by ADT | Mon - Fri Only!,45.00,HasOffers
-True,,R2O Housing List | Mon - Thurs Drops Only!,3.50,HasOffers
-True,,Applied Bank Unsecured Visa Card,14.00,HasOffers
-True,,Norton AntiVirus Plus - Email Only,68.00,HasOffers
-True,,Volumil Hearing Loss,75.00,HasOffers
-True,,Right To Fight Boy Scouts - Display - PAUSED,75.00,HasOffers
-True,,SoS Pain - Hemp Roll-On Gel,24.00,HasOffers
-True,,National Final Coverage - Burial Insurance | Mon - Fri Only!,15.00,HasOffers
-True,,Money4you.com **Exclusive**,45.00,HasOffers
-True,,Myfastloans.com **Exclusive**,45.00,HasOffers
-True,,Policy Guru - Medicare | Mon - Fri Only!,18.00,HasOffers
-True,,PowerVolt - Energy Saver,35.00,HasOffers
-True,,Simple Home Quotes - Security,15.00,HasOffers
-True,,GuidetoLoans *Exclusive*,48.00,HasOffers
-True,,365FastCash *Exclusive*,48.00,HasOffers
 True,,247LendingPros *Exclusive* - Revshare,0.00,HasOffers
-True,,Get Keranique - Love Your Hair ,90.00,HasOffers
-True,,Lumi Guard - Flood Light,30.00,HasOffers
-True,,Consumer Attention - Firefighting Foam,75.00,HasOffers
-True,,Consumer Attention - Firefighting Foam | Display ,56.00,HasOffers
-True,,Win Wells Fargo $1000 Gift Card ,1.50,HasOffers
-True,,US - Test & Keep New iPhone 12 ,2.20,HasOffers
-True,,UK - Test & Keep New iPhone 12 ,1.50,HasOffers
-True,,Gutter Protector ,41.00,HasOffers
-True,,Audiobooks - 30 Day Trial,18.00,HasOffers
-True,,Boy Scouts - CPL | Email Only,98.00,HasOffers
-True,,Boy Scouts - CPL | Native Only,98.00,HasOffers
-True,,US - Test & Keep Beats Studio3 ,2.20,HasOffers
-True,,Home Money Guide,1.80,HasOffers
-True,,"Top Surgeon - Neuropathic Pain (US, CA, UK, AU, NZ)",60.00,HasOffers
-True,,"Top Surgeon - Acid Reflux (US, CA, UK, AU, NZ)",60.00,HasOffers
-True,,Steel Bite Pro - Supplement,63.00,HasOffers
-True,,Class Action Guide,2.20,HasOffers
-True,,Mommy Freebies 5k Sweeps,2.20,HasOffers
-True,,The American Survey,2.20,HasOffers
-True,,Click 4 Riches,2.20,HasOffers
-True,,Credit Guide USA,2.20,HasOffers
 True,,Stoneberry - CAP REDIRECT DO NOT USE,0.00,HasOffers
+True,,Coverance Medicare | REDIRECT - DO NOT USE,0.00,HasOffers
+True,,US - Chris Psychic CPM - 6121,0.00,HasOffers
+True,200,IAC_Scanner_US_iOS_ INTERCEPTD,0.00,Everflow-affiliate
+True,200,IAC_NOAA_US_iOS_INTERCEPTD,0.00,Everflow-affiliate
+True,0,*OOM - Unpaid Redirect,0.00,Everflow-affiliate
+True,0,Popeyes Android US_App_Free Delivery 1F_1st Party,0.00,Everflow-affiliate
+True,0,RootInsurance_iOS,0.00,Everflow-affiliate
+True,0,Skillz_21 Blitz iOS_320x50_CPA,0.00,Everflow-affiliate
+True,0,Skillz_21 Blitz iOS_320x480_CPA,0.00,Everflow-affiliate
+True,0,Burger King $1 Delivery Q4 Android 300x250 MA,0.00,Everflow-affiliate
+True,0,Burger King PS5 Q4 iOS 300x250,0.00,Everflow-affiliate
+True,0,Burger King PS5 Q4 Android 300x250,0.00,Everflow-affiliate
+True,0,Burger King PS5 Android 320x50,0.00,Everflow-affiliate
+True,0,Burger King PS5 Q4 iOS 320x50,0.00,Everflow-affiliate
+True,0,Skillz_Solitaire Cube iOS_320x50_CPA,0.00,Everflow-affiliate
+True,0.00,Chegg - Textbook Rental - Rev Share,0.00,HasOffers
+True,0.00,Chegg - Textbook Rental - Rev Share,0.00,HasOffers
+True,0.00,DogHero_MX_Android_Non-Incent_CPI,0.00,HasOffers
+True,,Skyforge (OOM SOI),0.00,Cake
+True,,Skyforge (Geo Redirect SOI),0.00,Cake
+True,0.00,BankBalanceCreditCard_IN_iOs_non incent_CPi,0.00,HasOffers
+True,50,Root Insurance - iOS - US - CPA [City targeted + appname + creative],0.00,Everflow-affiliate
+True,,Drakensang Online (OOM SOI),0.00,Cake
+True,,Drakensang Online (Geo Redirect SOI),0.00,Cake
+True,,Forge Of Empires (OOM SOI),0.00,Cake
+True,,Forge Of Empires (Geo Redirect SOI),0.00,Cake
+True,0.00,StormGain_WW_iOS_non-incent_CPA,0.00,HasOffers
+True,0.00,StormGain_WW_Android_non-incent_CPA,0.00,HasOffers
+True,0.00,Noon_EG_CPS,0.00,HasOffers
+True,,Animal Jam (OOM SOI),0.00,Cake
+True,,Animal Jam (Geo Redirect SOI),0.00,Cake
+True,300.00,OkCredit_IN_Android_NonIncent_CPI_WL,0.00,HasOffers
+True,,League Of Angels (OOM SOI),0.00,Cake
+True,,League Of Angels (Geo Redirect SOI),0.00,Cake
+True,,League of Legends (OOM SOI),0.00,Cake
+True,,League of Legends (Geo Redirect SOI),0.00,Cake
+True,0.00,Аудиокниги Звуки Слов_RU_IOS_Non incent_CPI,0.00,HasOffers
+True,0.00,Test,0.00,HasOffers
+True,0.00,Kissht_IN_Android_NonIncent_CPR,0.08,HasOffers
+True,,TEST OFFER,0.10,Affise
+True,0.00,Gapo_iOS_VN_CPR_NonIncent,0.11,HasOffers
+True,0.00,Gapo_Android_VN_CPR_NonIncent,0.11,HasOffers
+True,0.00,Winzo_IN_Android_NonIncent_CPI_APK ,0.12,HasOffers
+True,0.00,Amazon Prime_IN_Android_Non incent_CPI SF,0.15,HasOffers
+True,200.00,Khatabook_IN_Android_NonIncent_CPI_WL,0.20,HasOffers
+True,0.00,Lamoda__iOS_NonIncent_CPR,0.20,HasOffers
+True,0.00,Shoptime_BR_Android_NonIncent_CPR,0.20,HasOffers
+True,0.00,Petz_BR_Android_NonIncent_CPI,0.20,HasOffers
+True,100.00,TrueBalance_IN_Android_NonIncent_CPI(DoNotAdd),0.20,HasOffers
+True,50.00,ShemarooMe_IN_Android_NonIncent_CPI_WL,0.20,HasOffers
+True,0.00,QurekaPro_IN_Android_NonIncent_CPR,0.20,HasOffers
+True,,Tokopedia - Waktu Indonesia Belanja - ID - NonIncent - Android,0.21,Affise
+True,600.00,AmazonPrime_IN_Android_NonIncent_CPI_WL9,0.22,HasOffers
+True,50.00,VootKids_IN_Android_NonIncent_CPI_WL2,0.22,HasOffers
+True,0.00,CRED_IN _Android_Non Incent_CPI(New),0.25,HasOffers
+True,11.00,Jejujini_KR_Android_NonIncent_CPI,0.25,HasOffers
+True,0.00,OYO_TH_Android_NonIncent_CPI_WL,0.26,HasOffers
+True,0.00,AmazonShopping_UAE_iOS_NonIncent_CPI(IDFA & Appname required)_WL,0.28,HasOffers
+True,0.00,AmazonPrime_IN_Android_NonIncent_CPA_WL,0.28,HasOffers
+True,0.00,Credy Argentina_AR_Web_CPL,0.30,HasOffers
+True,,Star Conflict (BR CPP),0.35,Cake
+True,0.00,Amazon Kindle_MX_iOS_Non Incent_Cpl_WL,0.35,HasOffers
+True,,World of Warships (BR DOI),0.35,Cake
+True,100.00,AirtelThanks_IN_Android_NonIncent_CPI,0.35,HasOffers
+True,100.00,AirtelThanks_IN_Android_NonIncent_CPI,0.35,HasOffers
+True,0.00,AmazonPrime_IN_iOS_NonIncent_CPI,0.35,HasOffers
+True,,World of Warships (TR DOI),0.40,Cake
+True,0.00,DogHero_AR_Android_Non-Incent_CPI,0.40,HasOffers
+True,0.00,DogHero_MX_iOs_Non-Incent_CPI,0.40,HasOffers
+True,30.00,DogHero_AR_iOs_Non-Incent_CPI,0.40,HasOffers
+True,0.00,Shopee_iOS_VN_NonIncent_CPI_WL,0.40,HasOffers
+True,0.00,Crezu_MX_web,0.40,HasOffers
+True,0.00,Andacredito_MX_web,0.40,HasOffers
+True,100.00,Practo_IN_Android_NonIncent_CPI_WL,0.40,HasOffers
+True,0.00,Rizzle_US_Android_NonIncent_CPR,0.40,HasOffers
+True,100,Starbucks iOS - US,0.42,Everflow-affiliate
+True,100.00,Swiggy_IN_IOS_Non Incent_CPI_WL,0.45,HasOffers
+True,,World of Warships (TH DOI),0.49,Cake
+True,25,Solitaire Mobilityware CPI iOS Canada - ROTATING LINK,0.50,Everflow-affiliate
+True,0.00,Bookaway_Multi_Android_NonIncent_CPR,0.50,HasOffers
+True,100.00,ShilpaShetty_IN_IOS_NonIncent_CPI_WL2,0.50,HasOffers
+True,50.00,Mfine_IN_IOS_NonIncent_CPI,0.50,HasOffers
+True,300,Kangsom Cute Clip18+ (Download Content) (MC - 2Click) - Thailand -Truemove Only,0.51,Everflow-affiliate
+True,500,Cute girl Clip18+ (Download Content) (MC - 2Click) - Thailand -Truemove Only,0.51,Everflow-affiliate
+True,2000,"Amazon Shopping Android US (Imp, App name & GAID NEEDED)",0.53,Everflow-affiliate
+True,0.00,DotsVPN_US_iOs_non-incent_CPI,0.54,HasOffers
+True,0.00,MigCredit_Android_RU_Non incent_CPI_WL,0.60,HasOffers
+True,,CBS Video - iOS,0.60,Affise
+True,0.00, Credy_Mx_Web_CPL,0.65,HasOffers
+True,200,Amazon Shopping Android US [Impressions + Appname + Device ID (on both click & imp links)],0.67,Everflow-affiliate
+True,,Star Conflict (FR/BE/NL/Nordics CPP),0.70,Cake
+True,,Star Conflict (CZ/PL CPP),0.70,Cake
+True,,War Thunder (PT DOI),0.70,Cake
+True,0.00,Hungama_IN_Android_Nonincent_CPI(WEB),0.70,HasOffers
+True,4000.00,My11Circle_IN_Android_NonIncent_CPI_APK,0.70,HasOffers
+True,0.00,SealMobile_MY_iOS_NonIncent_CPI,0.70,HasOffers
+True,0.00,Finq_KR_iOS_NonIncent_CPI_WL ,0.70,HasOffers
+True,100,Spider Solitaire: Card Game CPI iOS Canada - ROTATING LINK,0.75,Everflow-affiliate
+True,100,Spider Solitaire: Card Game CPI iOS United Kingdom - ROTATING LINK,0.75,Everflow-affiliate
+True,,Survey Soda - Email Submit ,0.75,HasOffers
+True,150,Mr Number - iOS US,0.75,Everflow-affiliate
+True,0.00,Twitter_JP_Android_Nonincent_CPI_WL,0.78,HasOffers
+True,0,Drop iOS - CPR (US),0.80,Everflow-affiliate
+True,,Magic Jigsaw Puzzles - iOS - US,0.80,Affise
+True,0.00,Alibaba_US_iOS_NonIncent_CPI,0.80,HasOffers
+True,0.00,TopTarjetas_MX_Web,0.80,HasOffers
+True,,Personal Loans - Online Financial Assistance - Display/Push,0.85,HasOffers
+True,100,Starbucks - Android - HappyHour - US - 1600 daily,0.86,Everflow-affiliate
+True,,Rapido - Bike Taxi - IN - NonIncent - Android,0.88,Affise
+True,100.00,Indialends_IN_Android_Non Incent_CPI_WL,0.90,HasOffers
+True,0.00,R5_KR_Android_NonIncent_CPI_WL ,0.90,HasOffers
+True,,Daily Freebie - Email Submit ,0.95,HasOffers
+True,100,Weedmaps - iOS - US Nevada,0.95,Everflow-affiliate
+True,0.00,Amazon Kindle_UK_iPad_Non Incent_Cpl_WL_iPad ONLY,0.96,HasOffers
+True,150,TikTok CPI iOS United States,1.00,Everflow-affiliate
+True,100,Spider Solitaire: Card Game CPI iOS United States - ROTATING LINK,1.00,Everflow-affiliate
+True,0.00,Fraudshield Dynamic Postback Testing ,1.00,HasOffers
+True,0.00,test offer,1.00,HasOffers
+True,300.00,OYO_ID_Android _Non Incent_CPI_WL,1.00,HasOffers
+True,0.00,Pagbank_BR_Android_NonIncent_CPI_WL,1.00,HasOffers
+True,30,The Skimm iOS US,1.05,Everflow-affiliate
+True,,War Thunder (CZ DOI),1.05,Cake
+True,,Personal Loans - Online Financial Assistance - Email,1.10,HasOffers
+True,,Medicare - Eligibility Assistance - Email,1.10,HasOffers
+True,50,PoongunM Android KR,1.10,Everflow-affiliate
+True,0.00,HayiLiveStream_DE_iOS_NonIncent_CPI(Transparency),1.10,HasOffers
+True,0.00,HayiLiveStream_AT_iOS_NonIncent_CPI(Transparency),1.10,HasOffers
+True,,World of Warships (ES DOI),1.16,Cake
+True,0.00,Mioto_VN_iOS_NonIncent_CPA,1.20,HasOffers
+True,0.00,Crezu_Es_web,1.20,HasOffers
+True,0.00,A3_KR_iOS_Non-Incent_CPI,1.20,HasOffers
+True,100,Jigsaw Puzzle CPI iOS United States - ROTATING LINK,1.25,Everflow-affiliate
+True,100,Pyramid Solitaire iOS US - ROTATING LINK,1.25,Everflow-affiliate
+True,100,Castle Solitaire CPI iOS US - ROTATING LINK,1.25,Everflow-affiliate
+True,100,Mahjong Solitaire CPI iOS United States - ROTATING LINK,1.25,Everflow-affiliate
+True,250,"Castle Solitaire CPI iOS UK, AU & CA - ROTATING LINK",1.25,Everflow-affiliate
+True,50,"Mahjong Solitaire CPI iOS UK, AU & CA - ROTATING LINK",1.25,Everflow-affiliate
+True,0.00,A3_KR_AND_Non-Incent_CPI,1.30,HasOffers
+True,2000.00,BankBazaar_IN_Android_Nonincent_CPI_WL(CC2),1.35,HasOffers
+True,50.00,BankBazaar_IN_Android_nonincent_CPI(CC),1.35,HasOffers
+True,,World of Tanks (CIS DOI),1.40,Cake
+True,,Win Wells Fargo $1000 Gift Card ,1.50,HasOffers
+True,,UK - Test & Keep New iPhone 12 ,1.50,HasOffers
 True,,UK - Win a New Apple Pack ,1.50,HasOffers
 True,,UK - Win New Playstation 5 ,1.50,HasOffers
 True,,UK - Win a Samsung S10 ,1.50,HasOffers
-True,,Sera Relief CBD - Oil ,90.00,HasOffers
-True,,Sera Relief CBD - Gummy,90.00,HasOffers
-True,,Consumer Attention - Elmiron,52.00,HasOffers
-True,,Lawsuit Winning - Belviq,60.00,HasOffers
-True,,Cash App $750,2.75,HasOffers
-True,,PayPal $750 ,2.75,HasOffers
-True,,Venmo $750 ,2.75,HasOffers
-True,,Zelle $750,2.75,HasOffers
-True,,Sera Relief CBD - Senior ,90.00,HasOffers
-True,,ReVision -  Eyesight,60.00,HasOffers
-True,,Travelers Auto Insurance | Mon - Thurs Only!,11.00,HasOffers
-True,,Tommy Chong's - CBD,39.00,HasOffers
 True,,Bath & Body Works $1000 Gift Card - Incent ,1.50,HasOffers
 True,,Walgreens $1000 Gift Card - Incent ,1.50,HasOffers
 True,,Target $1000 Gift Card - Incent ,1.50,HasOffers
 True,,CVS $1000 Gift Card - Incent ,1.50,HasOffers
 True,,Game Tester Jobs - Incent ,1.50,HasOffers
-True,,easyMedicare | Mon - Fri Only!,11.00,HasOffers
-True,50,Postmates - iOS - US - [Registration],9.75,Everflow-affiliate
-True,,RewardsAt65 | Mon - Fri Only!,2.20,HasOffers
-True,,Silencil - Tinnitus Breakthrough ,75.00,HasOffers
-True,,Lion Heart Health ,60.00,HasOffers
-True,,Coverance Medicare | Mon - Sat Only!,19.00,HasOffers
-True,,Optimum Tax Defense | Mon - Fri Only!,35.00,HasOffers
 True,,US - Chris Psychic | Display ,1.50,HasOffers
-True,,OsteoMD,71.00,HasOffers
-True,,LiverMD ,71.00,HasOffers
-True,,ProstateMD - VSL ,68.00,HasOffers
-True,,USA Scholarship Guide,1.80,HasOffers
-True,,Do Good Points - Charity Donations,11.00,HasOffers
-True,,Personal Loans - Online Financial Assistance - Email,1.10,HasOffers
-True,,Personal Loans - Online Financial Assistance - Display/Push,0.85,HasOffers
-True,,Medicare - Eligibility Assistance - Email,1.10,HasOffers
 True,100,Solitaire Mobilityware CPI iOS United States - ROTATING LINK,1.50,Everflow-affiliate
-True,150,TikTok CPI iOS United States,1.00,Everflow-affiliate
-True,25,Solitaire Mobilityware CPI iOS Canada - ROTATING LINK,0.50,Everflow-affiliate
-True,100,Jigsaw Puzzle CPI iOS United States - ROTATING LINK,1.25,Everflow-affiliate
-True,100,Pyramid Solitaire iOS US - ROTATING LINK,1.25,Everflow-affiliate
-True,100,Starbucks iOS - US,0.42,Everflow-affiliate
-True,100,Spider Solitaire: Card Game CPI iOS United States - ROTATING LINK,1.00,Everflow-affiliate
-True,100,Spider Solitaire: Card Game CPI iOS Canada - ROTATING LINK,0.75,Everflow-affiliate
-True,100,Spider Solitaire: Card Game CPI iOS United Kingdom - ROTATING LINK,0.75,Everflow-affiliate
-True,100,NON-INCENT: GrubHub - US CPA,5.60,Everflow-affiliate
-True,100,Castle Solitaire CPI iOS US - ROTATING LINK,1.25,Everflow-affiliate
-True,100,Mahjong Solitaire CPI iOS United States - ROTATING LINK,1.25,Everflow-affiliate
-True,250,"Castle Solitaire CPI iOS UK, AU & CA - ROTATING LINK",1.25,Everflow-affiliate
-True,50,"Mahjong Solitaire CPI iOS UK, AU & CA - ROTATING LINK",1.25,Everflow-affiliate
-True,,Battle For The White House 2020 - Chess Set ,22.00,HasOffers
-True,,Daily Freebie - Email Submit ,0.95,HasOffers
-True,,Survey Soda - Email Submit ,0.75,HasOffers
-True,,Combat Earplugs - CPL | Email Only,38.00,HasOffers
-True,,Combat Earplugs - CPL | Social/Native Only,38.00,HasOffers
-True,,Bumper - VIN Number Lookup,26.00,HasOffers
-True,,PeopleSmart - People Search,30.00,HasOffers
-True,,FirstQuote Auto | Mon - Fri Only!,6.00,HasOffers
-True,,FirstQuote Health | Mon - Fri Only!,6.00,HasOffers
-True,,Round Up  - CPL | Email Only,56.00,HasOffers
-True,,Coverance Medicare | REDIRECT - DO NOT USE,0.00,HasOffers
-True,,FoliCall Hair,68.00,HasOffers
-True,,Tasting Room - Save $33,30.00,HasOffers
-True,,Knightwood,108.00,HasOffers
-True,,Thanksgiving Loans Online,48.00,HasOffers
-True,,USA Wild Seafood,112.00,HasOffers
-True,,Independence Gold Card,3.00,HasOffers
-True,,Refi Rate Advisor Express - Lending Tree,13.00,HasOffers
-True,,Credit Associates | Mon - Fri Only!,33.00,HasOffers
-True,,MedicarePlan.net | Mon - Fri Only! - Variable Payout,15.00,HasOffers
-True,,Nano C - ImmuneSystemFuel.com,68.00,HasOffers
-True,,Herpesyl,75.00,HasOffers
-True,,Reversirol,68.00,HasOffers
-True,,WalkinBath.org - Email Only ,28.00,HasOffers
-True,0,BPmeRewards_iOS_PayFromYourCar_320x50,2.52,Everflow-affiliate
-True,,Winston Privacy - Email Only ,30.00,HasOffers
-True,,Winston Privacy - Display/Social,22.00,HasOffers
+True,200,Linkedin - iOS - US - [IDFA + Appname + BundleID],1.50,Everflow-affiliate
+True,0,Marvel Contest of Champions iOS US (App names & creative names needed),1.50,Everflow-affiliate
+True,0,AU_Cara_BWS_100DOS Cooler_App Install_Q4-1_2020-21_Display,1.50,Everflow-affiliate
+True,1000.00,BankBazaar_IN_Android_Nonincent_CPI(CreditCard),1.50,HasOffers
+True,0.00,"Crossout_Web_US, CA, UK, IE, AU, NZ, DE, CH, AT, NL, JP, FI, SE, DK, NO_CPL_ WL DOI",1.50,HasOffers
+True,0,[GMT] Alibaba.com iOS - CA - CPS,1.50,Everflow-affiliate
+True,100.00,ShilpaShetty_Multi_Android_NonIncent_CPI_WL,1.50,HasOffers
+True,100.00,ShilpaShetty_Multi_Android_NonIncent_CPI_WL,1.50,HasOffers
+True,100.00,ShilpaShetty_Multi_Android_NonIncent_CPI_WL,1.50,HasOffers
+True,100.00,ShilpaShetty_Multi_Android_NonIncent_CPI_WL,1.50,HasOffers
+True,100.00,ShilpaShetty_Multi_Android_NonIncent_CPI_WL,1.50,HasOffers
+True,100.00,ShilpaShetty_Multi_Android_NonIncent_CPI_WL,1.50,HasOffers
+True,100.00,ShilpaShetty_Multi_Android_NonIncent_CPI_WL,1.50,HasOffers
+True,0.00,A3_KR_iOS_NonIncent_CPI,1.50,HasOffers
+True,0.00,Pairs_JP_IOS__NonIncent_CPR,1.50,HasOffers
+True,50.00,ShemarooMe_IN_Android_NonIncent_CPI,1.50,HasOffers
+True,100.00,Practo_IN_Android_NonIncent_CPI,1.50,HasOffers
+True,0.00,Payly_BR_Android_NonIncent_CPI,1.50,HasOffers
+True,100,Bet+ Android US [Appname],1.55,Everflow-affiliate
+True,200,TikTok - iOS - US [APPNAME],1.60,Everflow-affiliate
+True,200,TikTok - iOS - US [APPNAME],1.60,Everflow-affiliate
+True,500,TikTok - Android - US [APPNAME],1.60,Everflow-affiliate
+True,500,TikTok - Android - US [APPNAME],1.60,Everflow-affiliate
+True,150.00,OYO_IN_Android_NonIncent_CPI_WL,1.60,HasOffers
+True,250.00,OYO_IN_Android_NonIncent_CPI_Facemoji,1.60,HasOffers
+True,50.00,ShemarooMe_IN_IOS_NonIncent_CPI,1.60,HasOffers
+True,0,Western Union iOS CA (FR) Q4,1.65,Everflow-affiliate
+True,0,Western Union Android CA (ENG) Q4,1.65,Everflow-affiliate
+True,0,Western Union Android CA (FR) Q4,1.65,Everflow-affiliate
+True,15,StubHub - US - iOS - S2S (Hard KPI/Transparency/IDFA),1.70,Everflow-affiliate
+True,100,Agoda - iOS - US,1.70,Everflow-affiliate
+True,0.00,mjstar31_TW_iOS_Non Incent_CPI_WL,1.70,HasOffers
+True,50,"CareerBuilder iOS US [IDFA, names]",1.73,Everflow-affiliate
+True,,Star Conflict (DACH CPP),1.75,Cake
+True,,Star Conflict (US/UK/AU/CA/IE CPP),1.75,Cake
+True,,The Unemployment Benefits Guide,1.80,HasOffers
+True,,Found Money Guide,1.80,HasOffers
+True,,Top Credit Card Finder,1.80,HasOffers
+True,,Home Money Guide,1.80,HasOffers
+True,,USA Scholarship Guide,1.80,HasOffers
 True,,AxInsure.com - Health Insurance - Zip Submit | Mon - Fri Only!,1.80,HasOffers
-True,,Harmony Home Warranty,21.00,HasOffers
-True,,Disney Gold Books - Email Only,15.00,HasOffers
-True,,Lawsuit Winning - Clergy Abuse ,75.00,HasOffers
-True,,National Family Assurance Life (Unfiltered) | Mon - Fri Drops Only - Email,9.00,HasOffers
-True,,National Family Assurance Life (Unfiltered) | Mon - Fri Only - Display,7.00,HasOffers
-True,,Watt PRO Saver ,28.00,HasOffers
-True,,Super iLight,45.00,HasOffers
-True,,Velour Skin ,72.00,HasOffers
-True,,WT2 Smart Watch ,45.00,HasOffers
-True,,SentBySanta,7.00,HasOffers
-True,,Lawsuit Winning - Truvada,24.00,HasOffers
-True,,Status Money - CPL,3.00,HasOffers
-True,,DebtBye.com,48.00,HasOffers
-True,,Copper Fit Energy Socks - Email,10.00,HasOffers
-True,,Star Belly Dream Lites - Email,17.00,HasOffers
-True,,JollyLoans,38.00,HasOffers
-True,,Complete Car Protection | Mon - Fri Only! ,18.00,HasOffers
-True,,Christmas Ornaments - Quarantine Themed ,28.00,HasOffers
+True,200,Swim Suit Models (Download Content) (MC - 2Click) - South Africa - MTN,1.80,Everflow-affiliate
+True,200,Beauties in Sand (Download Content) (MC - 2Click) - South Africa - MTN,1.80,Everflow-affiliate
+True,50,Crystal Hearts iOS JP,1.85,Everflow-affiliate
+True,0,Audible IT And Boomer,1.95,Everflow-affiliate
+True,300,"Audible US android( impressions,deviceid & appnames  mandatory)",1.95,Everflow-affiliate
+True,0.00,Movistar_AR_web,2.00,HasOffers
+True,100,Speedpass - Android - CA - [appname],2.05,Everflow-affiliate
+True,100,Speedpass - iOS - CA - [appname],2.05,Everflow-affiliate
+True,25,Blinkist iOS US (Impressions & App Names required) GreenScreenshotBanner 300x50,2.10,Everflow-affiliate
+True,,World of Warships (PL DOI),2.10,Cake
+True,0.00,Bnext_ES_iOS_Non Incent_CPA,2.10,HasOffers
+True,0.00,VPNhub_US_Android_Non Incent_CPR,2.10,HasOffers
+True,0.00,VPNhub_US_iOs_Non Incent_CPR,2.10,HasOffers
+True,,US - Test & Keep PlayStation5,2.20,HasOffers
+True,,US - Test & Keep Xbox X,2.20,HasOffers
+True,,US - Test & Keep New iPhone 12 ,2.20,HasOffers
+True,,US - Test & Keep Beats Studio3 ,2.20,HasOffers
+True,,Class Action Guide,2.20,HasOffers
+True,,Mommy Freebies 5k Sweeps,2.20,HasOffers
+True,,The American Survey,2.20,HasOffers
+True,,Click 4 Riches,2.20,HasOffers
+True,,Credit Guide USA,2.20,HasOffers
+True,,RewardsAt65 | Mon - Fri Only!,2.20,HasOffers
 True,,US - Win Walmart Gift Card (Black Friday),2.20,HasOffers
 True,,US - Win Best Buy Gift Card (Black Friday),2.20,HasOffers
 True,,US - Test and Keep iPhone 12 Pro (Black Friday),2.20,HasOffers
-True,,US - Chris Psychic CPM - 6121,0.00,HasOffers
 True,,US - Win Amazon Gift Card (Black Friday),2.20,HasOffers
-True,,Quietum Plus,64.00,HasOffers
-True,,ProstaStream,68.00,HasOffers
-True,,ProMind Complex,64.00,HasOffers
-True,,Lawsuit Winning - Firefighting Foam,75.00,HasOffers
-True,,Rocket Credit Score,33.00,HasOffers
+True,200,TikTok - Android - AU [APPNAME],2.20,Everflow-affiliate
+True,200,TikTok - Android - AU [APPNAME],2.20,Everflow-affiliate
+True,100.00,VootKids_IN_ Android_NonIncent_CPI,2.20,HasOffers
+True,0.00,SwordKingdoms-Android_KR_NonIncent_CPI_WL ,2.20,HasOffers
+True,100,Postmates - iOS - US - [IDFA + City targeted],2.25,Everflow-affiliate
+True,0.00,Creditoestrella_ES_web,2.30,HasOffers
+True,50,Soccer Saturday Super 6 iOS UK CPR,2.38,Everflow-affiliate
+True,300,"Audible US iOS( impressions,deviceid  & appnames  mandatory)",2.40,Everflow-affiliate
+True,100,FreePrints CPE - Android - US - Non Incent,2.45,Everflow-affiliate
+True,,World of Warships (CZ/SK DOI),2.45,Cake
+True,0.00,Hily_US_iOS_NonIncent_CPI,2.50,HasOffers
+True,0,BPmeRewards_iOS_PayFromYourCar_320x50,2.52,Everflow-affiliate
+True,30,HomeAdvisor iOS US,2.55,Everflow-affiliate
+True,0,Skillz_Blackout Bingo iOS_320x50,2.63,Everflow-affiliate
+True,0,Brightside iOS 320x50,2.70,Everflow-affiliate
+True,,Cash App $750,2.75,HasOffers
+True,,PayPal $750 ,2.75,HasOffers
+True,,Venmo $750 ,2.75,HasOffers
+True,,Zelle $750,2.75,HasOffers
+True,0,Stash_iOS,2.80,Everflow-affiliate
+True,,War Thunder (DK DOI),2.80,Cake
+True,,War Thunder (FI DOI),2.80,Cake
+True,,War Thunder (NO DOI),2.80,Cake
+True,,War Thunder (SE DOI),2.80,Cake
+True,,World of Warships (FR/BE DOI),2.80,Cake
+True,,World of Warships (UK/IE DOI),2.80,Cake
+True,0,Skillz_21 Blitz Android_320x50_SingleTap,2.85,Everflow-affiliate
+True,,Independence Gold Card,3.00,HasOffers
+True,,Status Money - CPL,3.00,HasOffers
+True,0,Skillz_21 Blitz Samsung_320x50,3.00,Everflow-affiliate
+True,0,Chime iOS Direct 2,3.00,Everflow-affiliate
+True,200,Self Lender iOS,3.00,Everflow-affiliate
+True,100,"Postmates - iOS - US [Impressions, BundleID, Sitename]",3.00,Everflow-affiliate
+True,100,"Postmates - iOS - US [Impressions, BundleID, Sitename]",3.00,Everflow-affiliate
+True,0.00,PayByPhone Parking_BE( City Charleroi )_iOS__Non incent,3.00,HasOffers
+True,0.00,VirginMobile_Chile_CPL_NonIncent,3.00,HasOffers
+True,200.00,1mg_IN_IOS_Non Incent_CPI_WL,3.00,HasOffers
+True,100.00,Pharmeasy_IN_Android_NonIncent_CPI_WL,3.00,HasOffers
+True,100.00,Pharmeasy_IN_Android_NonIncent_CPI_WL,3.00,HasOffers
+True,0.00,Proteste_BR_CPL,3.00,HasOffers
+True,0.00,War Thunder_Web_US CA UK IE AU NZ_CPL ,3.00,HasOffers
+True,0.00,BokujyoKonkatu_iOS_JP_Non-Incent_CPE,3.00,HasOffers
+True,0.00,fashiontvcosmetics_RU_Web_Non incent_CPA,3.00,HasOffers
+True,0.00,BancoGalicia_AR_web,3.00,HasOffers
+True,100,Flowwow flower-103728-iPhone-RU-27Dec19-DRM,3.03,Everflow-affiliate
+True,0,Skillz_Blackout Bingo Android_320x50_SingleTap,3.04,Everflow-affiliate
+True,,War Thunder (CA DOI),3.15,Cake
+True,,War Thunder (IE DOI),3.15,Cake
+True,,War Thunder (NZ DOI),3.15,Cake
+True,,War Thunder (UK DOI),3.15,Cake
+True,,War Thunder (AU DOI),3.15,Cake
+True,,War Thunder (US DOI),3.15,Cake
+True,100,Clarity Money - CPE - iOS - US - Non Incent,3.23,Everflow-affiliate
+True,,TESTING,3.30,Adperio
+True,0,Flavor Maker McCormick 320x480 iOS CPI Gaming ONLY,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 320x480 Android CPI Gaming ONLY,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 320x50 Android CPI Gaming ONLY,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 320x50 iOS CPI Gaming ONLY,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 300x250 Android CPI Gaming ONLY,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 300x250 iOS CPI Gaming ONLY,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 320x50 Android CPI Non Gaming ONLY,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 320x480 iOS CPI Non Gaming ONLY,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 300x250 Android CPI Gaming ONLY Single Tap,3.40,Everflow-affiliate
+True,0,Flavor Maker McCormick 320x480 Android CPI Gaming ONLY Single Tap,3.40,Everflow-affiliate
+True,200.00,1mg - Medicines_IN_Android_Non Incent_CPI_,3.40,HasOffers
+True,1000.00,1mg - Medicines_IN_Android_Non Incent_CPI_New,3.40,HasOffers
+True,,R2O Housing List | Mon - Thurs Drops Only!,3.50,HasOffers
+True,50.00,Rappi_CO_Android_NonIncent_CPI_Transparency,3.50,HasOffers
+True,50.00,Rappi_CO_Android_NonIncent_CPI_Transparency,3.50,HasOffers
+True,0,[GMT] Alibaba.com iOS - US - CPS,3.75,Everflow-affiliate
+True,0.00,CDiscount_FR_iOs__Non incent,4.00,HasOffers
+True,0.00,Goodluck777_TW_Android_Non Incent_CPI_WL,4.00,HasOffers
+True,0.00,BancoGalicia_AR_Mobileweb,4.00,HasOffers
+True,0.00,BancoSantender,4.00,HasOffers
+True,200.00,1mg_IN_IOS_Non Incent_CPI,4.40,HasOffers
+True,300.00,RummyCircle_IN_IOS_NonIncent_CPI(MH2),4.40,HasOffers
+True,300.00,RummyCircle_IN_IOS_NonIncent_CPI(KA),4.40,HasOffers
+True,300.00,RummyCircle_IN_IOS_NonIncent_CPI(MH),4.40,HasOffers
+True,300.00,RummyCircle_IN_IOS_NonIncent_CPI(KA2),4.40,HasOffers
+True,300.00,RummyCircle_IN_IOS_NonIncent_CPI,4.40,HasOffers
+True,50,Betfred Sports Betting IOS UK,4.50,Everflow-affiliate
+True,100,WWE Raw (Mobile Content) (MC - 2Click) - South Africa - Vodacom,4.80,Everflow-affiliate
+True,100,Trending African Movies (Mobile Content) (MC - 2Click) - South Africa - Vodacom,4.80,Everflow-affiliate
+True,,World of Warships (Scand DOI),4.90,Cake
+True,500.00,Groww_IN_Android_NonIncent_CPI_WL,5.00,HasOffers
+True,,World of Warships (DE/AT/CH DOI),5.25,Cake
+True,,World of Warships (US DOI),5.25,Cake
+True,50,"Rehlat iOS CPA- (Kuwait ,Saudi Arabia, UAE, Oman, Bahrain, Qatar)",5.25,Everflow-affiliate
+True,50,Root Insurance - iOS - US - [City targeted + appname + creative],5.40,Everflow-affiliate
+True,0.00,(Sky Betting)Soccer Saturday Super 6 - UK - CPR - IOS,5.50,HasOffers
+True,0.00,(Sky Betting)Soccer Saturday Super 6 - UK - CPR - IOS,5.50,HasOffers
+True,100,NON-INCENT: GrubHub - US CPA,5.60,Everflow-affiliate
+True,,CarInsurance.net - Native | Mon - Fri Only!,6.00,HasOffers
+True,,FirstQuote Auto | Mon - Fri Only!,6.00,HasOffers
+True,,FirstQuote Health | Mon - Fri Only!,6.00,HasOffers
+True,0.00,Franprix-Livraison de courses_FR_iOs__Non incent,6.00,HasOffers
+True,0.00,Prestamosonlineya_ES_Web_CPL,6.00,HasOffers
+True,50,"Rehlat android CPA- (Kuwait ,Saudi Arabia, UAE, Oman, Bahrain, Qatar)",6.00,Everflow-affiliate
+True,100,牧場婚活 - JP,6.11,Everflow-affiliate
+True,100,牧場婚活　きせかえアバターで婚活して結婚できる牧場ゲーム - JP,6.11,Everflow-affiliate
+True,100,農園婚活 - JP,6.11,Everflow-affiliate
+True,100,農園婚活　きせかえアバターで婚活して結婚できる農園ゲーム - JP,6.11,Everflow-affiliate
+True,500,Spuul-iOS/Android- US/UK/CA-CPE,6.30,Everflow-affiliate
+True,,National Family Assurance Life (Unfiltered) | Mon - Fri Only - Display,7.00,HasOffers
+True,,SentBySanta,7.00,HasOffers
+True,150.00,Dostavista_KR_iOS_Non-Incent_CPA ,7.00,HasOffers
+True,600.00,Dostavista_Ru_iOS_Non-Incent_CPA_WL,7.00,HasOffers
+True,150.00,Wefast_IN_iOS_Non-Incent_CPI_WL2,7.00,HasOffers
+True,,World of Warships (JP DOI),7.00,Cake
+True,1000.00,Wefast_IN_iOS_Non-Incent_CPI_WL,7.00,HasOffers
+True,100.00,Dostavista_Ru_AND_Non-Incent_CPI,7.00,HasOffers
+True,400.00,Dostavista_RU_Android_Non-Incent_CPI_WL,7.00,HasOffers
+True,150.00,MrSpeedy_MY_iOS_Non-Incent_CPI_WL,7.00,HasOffers
+True,400.00,MrSpeedy_ID_IOS_NonIncent_CPI_WL,7.00,HasOffers
+True,25,Apple Arcade - WHAT THE GOLF? - iOS - CPA - US (Req. Impressions),7.50,Everflow-affiliate
+True,15,Hulu - CPA - US,7.50,Everflow-affiliate
+True,600.00,Dostavista_Ru_iOS_Non-Incent_CPI_WL,7.50,HasOffers
+True,0,Digital PowerBox Fortnite (Download Content) (MC - MO) - Spain,7.80,Everflow-affiliate
+True,1200.00,MrSpeedy_PH_iOS_Non-Incent_CPA _WL,8.00,HasOffers
+True,0.00,Credy_ES_Web_CPL,8.00,HasOffers
+True,0.00,BBVA_AR_Mobileweb,8.00,HasOffers
+True,500.00,ClickEntregas_BR_iOS_Non-Incent_CPI_WL,8.00,HasOffers
+True,300.00,ClickEntregas_BR_Android_Non-Incent_CPI_WL,8.00,HasOffers
+True,400.00,MrSpeedy_PH_IOS_NonIncent_CPI_WL,8.00,HasOffers
+True,800.00,MrSpeedy_PH_Android_NonIncent_CPI_WL,8.00,HasOffers
+True,,Learning Ferret,9.00,HasOffers
+True,,National Family Assurance Life (Unfiltered) | Mon - Fri Drops Only - Email,9.00,HasOffers
+True,25,Seated - iOS - US [City Targeted - CPA - Appname - IDFA],9.00,Everflow-affiliate
+True,0,Force Genius Netflix Prelander (Video Streaming) (CC Trial) - Canada,9.60,Everflow-affiliate
+True,50,Postmates - iOS - US - [Registration],9.75,Everflow-affiliate
+True,,Copper Fit Energy Socks - Email,10.00,HasOffers
+True,0.00,Personalization Mall - Christmas Gifts - US,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Gifts - US,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Cards - US - Email Only,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Cards - US - Email Only,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Cards - US,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Cards - US,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Stockings - US - Email Only,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Stockings - US - Email Only,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Stockings - US,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Stockings - US,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Ornaments - US,10.50,HasOffers
+True,0.00,Personalization Mall - Christmas Ornaments - US,10.50,HasOffers
+True,100,Sugar Beats Movie Night (Streaming) (CC Trial) - United States,10.80,Everflow-affiliate
+True,,Travelers Auto Insurance | Mon - Thurs Only!,11.00,HasOffers
+True,,easyMedicare | Mon - Fri Only!,11.00,HasOffers
+True,,Do Good Points - Charity Donations,11.00,HasOffers
+True,150.00,MrSpeedy_VN_Android_NonIncent_CPI_WL,11.00,HasOffers
+True,500.00,MrSpeedy_VN_IOS_NonIncent_CPI_WL,11.00,HasOffers
+True,150.00,MrSpeedy_VN_IOS_NonIncent_CPI_WL,11.00,HasOffers
+True,0,Golddigger iPhone XS Amazon (Sweepstake) (CC Trial) - New Zealand,11.55,Everflow-affiliate
+True,0,"Golddigger Samsung 49"" QLED TV (Sweepstake) (CC Trial) - New Zealand",11.55,Everflow-affiliate
+True,,(ATR) Mortgage Refinance - US - No Filters - CPL,12.00,Adperio
+True,0,PPE_CPA,12.00,Everflow-affiliate
+True,300.00,FlexiroamX_UAE/SG/AU/US_IOS_NonIncent_CPI,12.00,HasOffers
+True,300.00,FlexiroamX_UAE/SG/AU/US_IOS_NonIncent_CPI,12.00,HasOffers
+True,300.00,FlexiroamX_UAE/SG/AU/US_IOS_NonIncent_CPI,12.00,HasOffers
+True,,Pentagon Fitness Tracker,13.00,HasOffers
+True,,Refi Rate Advisor Express - Lending Tree,13.00,HasOffers
+True,,Battery Daddy - Email,13.00,HasOffers
+True,20,Battery Saver Yellow - AcE SIP (Vodafone) - (Download Content) - Germany,13.80,Everflow-affiliate
+True,20,The best Fortnite Chapter 2 - AcE SIP (Vodafone) - (Download Content) - Germany,13.80,Everflow-affiliate
+True,20,iPhone 11 Bundle (Vodafone) - (Download Content) - Germany,13.80,Everflow-affiliate
+True,20,Coin Master Guide Hammer (Vodafone) - (Download Content) - Germany,13.80,Everflow-affiliate
+True,20,Aktivierung Neon (Vodafone) - (Download Content) - Germany,13.80,Everflow-affiliate
+True,,Applied Bank Unsecured Visa Card,14.00,HasOffers
+True,0.00,KarambaCasino_IE DE LU IN CA QA BH OM SE_iOS_Non_incent,14.40,HasOffers
+True,,National Final Coverage - Burial Insurance | Mon - Fri Only!,15.00,HasOffers
+True,,Simple Home Quotes - Security,15.00,HasOffers
+True,,MedicarePlan.net | Mon - Fri Only! - Variable Payout,15.00,HasOffers
+True,,Disney Gold Books - Email Only,15.00,HasOffers
 True,,Broad Street Bitcoin | Mon - Fri Only!,15.00,HasOffers
+True,0.00,Vantagens deco proteste_PT_CPL,15.00,HasOffers
+True,100,クロスミー(CROSS ME) - すれ違いマッチングアプリ - JP,15.22,Everflow-affiliate
+True,0,Webull - iOS - US (CPA) (302),16.00,Z2A
+True,0,Monese - UK - Display - Android - S2S (CPA),16.50,Everflow-affiliate
+True,0,Monese - UK - Display - iOS - S2S (CPA),16.50,Everflow-affiliate
+True,,Star Belly Dream Lites - Email,17.00,HasOffers
+True,,Policy Guru - Medicare | Mon - Fri Only!,18.00,HasOffers
+True,,Audiobooks - 30 Day Trial,18.00,HasOffers
+True,,Complete Car Protection | Mon - Fri Only! ,18.00,HasOffers
+True,,American Home Shield - Display/Social,19.00,HasOffers
+True,,Coverance Medicare | Mon - Sat Only!,19.00,HasOffers
+True,0,SugarBeats iPhone 11 Pro (Sweepstake) (CC Trial) - New Zealand,19.13,Everflow-affiliate
+True,0,Sugar Beats PlayStation Network Gift Card (Sweepstake) (CC Trial) - New Zealand,19.13,Everflow-affiliate
+True,0,Sugar Beats Xbox Live Gift Card (Sweepstake) (CC Trial) - New Zealand,19.13,Everflow-affiliate
+True,0,Force Genius Netflix Prelander (Video Streaming) (CC Trial) - Chile,19.80,Everflow-affiliate
+True,0.00,ProvaAltroconsumo offerta_IT_CPL,20.00,HasOffers
+True,700.00,Rummybaazi_IN_Android_NonIncent_CPR_APK,20.00,HasOffers
+True,100.00,Pokerbaazi_IN_Android_NonIncent_CPA_APK,20.00,HasOffers
+True,,Choice Home Warranty - US - CPL - First Page Submit,20.00,Adperio
+True,,Harmony Home Warranty,21.00,HasOffers
+True,,Battle For The White House 2020 - Chess Set ,22.00,HasOffers
+True,,Winston Privacy - Display/Social,22.00,HasOffers
+True,100,クロスミー - JP,23.90,Everflow-affiliate
+True,0,SugarBeats iPhone 11 Pro (Sweepstake) (CC Trial) - Netherlands,24.00,Everflow-affiliate
+True,0,SugarBeats iPhone 11 Pro (Sweepstake) (CC Trial) - SE FI NO DK CH BE,24.00,Everflow-affiliate
+True,,SoS Pain - Hemp Roll-On Gel,24.00,HasOffers
+True,,Lawsuit Winning - Truvada,24.00,HasOffers
+True,0,Sugar Beats PlayStation Network Gift Card (Sweepstake) (CC Trial) - Netherlands,24.00,Everflow-affiliate
+True,0,Sugar Beats Xbox Live Gift Card (Sweepstake) (CC Trial) - Netherlands,24.00,Everflow-affiliate
+True,0,SugarBeats PlayStation Network Gift Card (Sweepstake) (CC Trial) - SE FI NO DK CH BE,24.00,Everflow-affiliate
+True,0,SugarBeats  Xbox Live Gift Card (Sweepstake) (CC Trial) - SE FI NO DK CH BE,24.00,Everflow-affiliate
+True,,Bumper - VIN Number Lookup,26.00,HasOffers
+True,,WalkinBath.org - Email Only ,28.00,HasOffers
+True,,Watt PRO Saver ,28.00,HasOffers
+True,,Christmas Ornaments - Quarantine Themed ,28.00,HasOffers
+True,,Tax Group Center,30.00,HasOffers
+True,,Lumi Guard - Flood Light,30.00,HasOffers
+True,,PeopleSmart - People Search,30.00,HasOffers
+True,,Tasting Room - Save $33,30.00,HasOffers
+True,,Winston Privacy - Email Only ,30.00,HasOffers
+True,0.00,MigCredit_iOs_RU_Non incent_CPA,30.00,HasOffers
+True,150.00,Rummypassion_IN_Mobile Web_CPA,30.00,HasOffers
+True,400.00,Rummypassion_IN_APK Only-Android_CPA,30.00,HasOffers
+True,,Fresh Tax Support | Mon - Fri Only!,33.00,HasOffers
+True,,Credit Associates | Mon - Fri Only!,33.00,HasOffers
+True,,Rocket Credit Score,33.00,HasOffers
+True,15,Toosla iOS FR CPA (Paris city-targeting),33.75,Everflow-affiliate
+True,,PowerVolt - Energy Saver,35.00,HasOffers
+True,,Optimum Tax Defense | Mon - Fri Only!,35.00,HasOffers
+True,,(ATR) Mortgage Refinance - US - Full Form (Good+) - CPL,36.00,Adperio
+True,,Combat Earplugs - CPL | Email Only,38.00,HasOffers
+True,,Combat Earplugs - CPL | Social/Native Only,38.00,HasOffers
+True,,JollyLoans,38.00,HasOffers
+True,,Tommy Chong's - CBD,39.00,HasOffers
+True,,Gutter Protector ,41.00,HasOffers
+True,,ADT - Pets | Mon - Fri Drops Only!,45.00,HasOffers
+True,,Rest Safe Home by ADT | Mon - Fri Only!,45.00,HasOffers
+True,,Money4you.com **Exclusive**,45.00,HasOffers
+True,,Myfastloans.com **Exclusive**,45.00,HasOffers
+True,,Super iLight,45.00,HasOffers
+True,,WT2 Smart Watch ,45.00,HasOffers
+True,,Secure Speedy,48.00,HasOffers
+True,,GuidetoLoans *Exclusive*,48.00,HasOffers
+True,,365FastCash *Exclusive*,48.00,HasOffers
+True,,Thanksgiving Loans Online,48.00,HasOffers
+True,,DebtBye.com,48.00,HasOffers
+True,,Consumer Attention - Elmiron,52.00,HasOffers
+True,,Consumer Attention - Firefighting Foam | Display ,56.00,HasOffers
+True,,Round Up  - CPL | Email Only,56.00,HasOffers
+True,,"Top Surgeon - Neuropathic Pain (US, CA, UK, AU, NZ)",60.00,HasOffers
+True,,"Top Surgeon - Acid Reflux (US, CA, UK, AU, NZ)",60.00,HasOffers
+True,,Lawsuit Winning - Belviq,60.00,HasOffers
+True,,ReVision -  Eyesight,60.00,HasOffers
+True,,Lion Heart Health ,60.00,HasOffers
+True,0.00,Libertex_WW_iOS_non-incent_CPA,60.00,HasOffers
+True,,Steel Bite Pro - Supplement,63.00,HasOffers
+True,,Quietum Plus,64.00,HasOffers
+True,,ProMind Complex,64.00,HasOffers
+True,,Get Keranique - Display/Native,67.00,HasOffers
+True,,Norton AntiVirus Plus - Email Only,68.00,HasOffers
+True,,ProstateMD - VSL ,68.00,HasOffers
+True,,FoliCall Hair,68.00,HasOffers
+True,,Nano C - ImmuneSystemFuel.com,68.00,HasOffers
+True,,Reversirol,68.00,HasOffers
+True,,ProstaStream,68.00,HasOffers
+True,,OsteoMD,71.00,HasOffers
+True,,LiverMD ,71.00,HasOffers
+True,,Velour Skin ,72.00,HasOffers
+True,,Volumil Hearing Loss,75.00,HasOffers
+True,,Right To Fight Boy Scouts - Display - PAUSED,75.00,HasOffers
+True,,Consumer Attention - Firefighting Foam,75.00,HasOffers
+True,,Silencil - Tinnitus Breakthrough ,75.00,HasOffers
+True,,Herpesyl,75.00,HasOffers
+True,,Lawsuit Winning - Clergy Abuse ,75.00,HasOffers
+True,,Lawsuit Winning - Firefighting Foam,75.00,HasOffers
+True,,Get Keranique - Love Your Hair ,90.00,HasOffers
+True,,Sera Relief CBD - Oil ,90.00,HasOffers
+True,,Sera Relief CBD - Gummy,90.00,HasOffers
+True,,Sera Relief CBD - Senior ,90.00,HasOffers
+True,,Boy Scouts - CPL | Email Only,98.00,HasOffers
+True,,Boy Scouts - CPL | Native Only,98.00,HasOffers
+True,,Knightwood,108.00,HasOffers
+True,,USA Wild Seafood,112.00,HasOffers
